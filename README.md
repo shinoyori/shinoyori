@@ -17,15 +17,14 @@
       </a>
   </div>
 
-  <!-- The FIXED WIDTH TEXT BLOCK -->
-  <div style="display:block; **max-width:400px**; margin:0 auto; text-align:center; line-height:1.4;">
+  <div style="display:block; width:100px; max-width:100px; margin:0 auto; text-align:center; line-height:1.4;">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum blandit viverra risus sit amet placerat. Nullam sed malesuada justo, in vestibulum purus. Proin euismod tellus nec semper aliquam. Suspendisse a convallis urna. Fusce ac lorem magna. Sed cursus metus vitae mauris vulputate, eget eleifend risus laoreet. Suspendisse sed dolor a augue condimentum tempus. Morbi eleifend scelerisque orci, id varius arcu ultrices sed. Donec ut pharetra sapien, eget semper velit.<br><br>
+Computer Science student at UFSCar<br>
+Studying full stack development<br>
+Machine learning researcher at MIDAS<br>
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam erat volutpat. Aenean quam tortor, euismod in ex ut, dictum suscipit leo. Donec purus quam, feugiat in enim et, placerat egestas ante. Sed in aliquam justo, ut egestas ante. Phasellus tempor, elit ac luctus ornare, urna ligula pretium ligula, malesuada ornare leo nibh sed leo. Mauris blandit ligula non libero congue, et tincidunt nunc ultrices. Sed ornare risus vitae erat imperdiet, vel posuere neque vestibulum. Morbi aliquam ex pellentesque mauris luctus varius. Mauris condimentum erat ut imperdiet interdum. Morbi ac vulputate erat.<br><br>
 
-Nulla facilisi. Sed aliquam turpis ultricies urna sollicitudin, at porttitor nulla blandit. Pellentesque eget tortor eget erat maximus aliquam vel id arcu. Donec sit amet molestie arcu, ac congue mauris. Etiam tempor vitae erat ut commodo. Aenean hendrerit augue in dui tincidunt, ac porta lorem finibus. Sed tincidunt at mi id euismod. Quisque orci est, pulvinar at pulvinar a, facilisis sit amet sem. In hac habitasse platea dictumst. Morbi ornare nisl augue, ut sollicitudin lectus volutpat eget. Proin bibendum risus vel libero feugiat, et tincidunt tellus fringilla.
-
+  
   </div>
 
   <p align="center"> 
